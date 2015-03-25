@@ -1,0 +1,7 @@
+<Alloy>
+	<View class="alert-option-wrapper">
+		<Label id="title" class="alert-option"></Label>
+		<View id="active" class="alert-option-overlay" />
+		<View class="alert-option-divider" />
+	</View>
+</Alloy>

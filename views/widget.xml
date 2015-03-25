@@ -1,0 +1,10 @@
+<Alloy>
+	<OptionDialog id="optionsDialog" >
+		<ScrollView id="content" layout="vertical">
+			
+		</ScrollView>
+		<ButtonNames>
+			<ButtonName>Anuluj</ButtonName>
+		</ButtonNames>
+	</OptionDialog>
+</Alloy>

@@ -1,0 +1,29 @@
+".alert-option-wrapper": {
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+}
+".alert-option": {
+	left: 16,
+	height: 48,
+	width: Ti.UI.FILL,
+	textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT,
+	color: 'black',
+	font:{
+		fontSize: 20
+	}	
+}
+".alert-option-overlay": {
+	height: 48,
+	backgroundSelectedColor: '#10000000'
+}
+".alert-option-divider": {
+	bottom: 0,
+	height: '1px',
+	backgroundColor: 'lightgray'
+}
+"#title": {
+	
+}
+"#active": {
+	
+}
