@@ -8,14 +8,15 @@ Install:
 1. Add contents of this repository into app/wigdets/pl.tidev.androidalertdialog folder in your project
 2. Add dependency in project's config.json: 
 
-"dependencies": {
-    "pl.tidev.androidalertdialog": "1.0"
-}
+    "dependencies": {
+        "pl.tidev.androidalertdialog": "1.0"
+    }
 
-3. Use in controller:
+Use in controller:
 
-// Create options object for dialog creation, any standard Ti.UI.AlertDialog options can go here.
-var options = {
+    // Create options object for dialog creation, any standard Ti.UI.AlertDialog options can go here.
+
+    var options = {
         title: 'Options',
         // Modification of available listing options, each item uses title attribute and action, which will be fired, when user clicks list item.
         options: [
